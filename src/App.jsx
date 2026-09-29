@@ -10,11 +10,11 @@ export default function App() {
     <>
       <h1>React Form</h1>
       <Ex1 />
-      <Ex2 />
-      <Ex3 />
-      <Ex4 />
-      <Ex5 />
-      <Ex6 />
+      {/* <Ex2 /> */}
+      {/* <Ex3 /> */}
+      {/* <Ex4 /> */}
+      {/* <Ex5 /> */}
+      {/* <Ex6 /> */}
 
 
     </>
